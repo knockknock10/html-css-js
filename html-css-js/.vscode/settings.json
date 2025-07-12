@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "terminal.integrated.fontFamily": "Comic Code, monospace",
+    "terminal.integrated.fontSize": 15,
+    "scm.diffDecorations": "none",
+    "editor.fontSize": 16
+}
