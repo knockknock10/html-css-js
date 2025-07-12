@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.enable": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    }
+}
