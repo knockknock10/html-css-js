@@ -15,7 +15,7 @@ let tokenacc = ("/api", (req, res, next) => {
     if (token === "give access") {
         next();
     } else {
-        // res.send("DENIED ACCESS");
+        // res.send("DENIED ACCESS")
         throw new Expresserorr(401, "ACCESS DENIED !");
     }
 })
