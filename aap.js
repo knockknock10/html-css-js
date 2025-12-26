@@ -1,4 +1,4 @@
-const express = require("express");
+const express = require("express")
 const Expresserorr = require("./Expresserr");
 const app = express();
 //utility middlewares logger 
